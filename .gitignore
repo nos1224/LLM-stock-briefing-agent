@@ -1,0 +1,52 @@
+# API keys and environment files
+.env
+.env.local
+.env.*.local
+
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Temporary work and local test folders
+scratch/
+tmp/
+temp/
+
+# Personal history and runtime logs
+chat_history.json
+logs/
+*.log
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# Vector DB / local database
+chroma_db/
+
+# Streamlit local config
+.streamlit/
