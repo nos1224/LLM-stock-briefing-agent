@@ -284,9 +284,3 @@ logs/
 .streamlit/
 .DS_Store
 ```
-
----
-
-## License
-
-본 프로젝트는 학습 및 포트폴리오 목적으로 제작되었습니다.
