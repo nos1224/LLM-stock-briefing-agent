@@ -47,6 +47,3 @@ Desktop.ini
 
 # Vector DB / local database
 chroma_db/
-
-# Streamlit local config
-.streamlit/
